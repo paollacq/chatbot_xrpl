@@ -34,10 +34,10 @@ httplib2
 idna
 imagesize
 Jinja2
-jsonpatch == 1.33
+jsonpatch 
 jsonpointer
 jsonschema
-kiwisolver == 1.4.4
+kiwisolver
 language-selector
 launchpadlib
 lazr.restfulclient
@@ -96,7 +96,7 @@ six
 snowballstemmer
 soupsieve
 Sphinx
-sympy == 1.13.1
+sympy
 thrift
 trove-classifiers
 typing_extensions
